@@ -1,0 +1,3 @@
+[submodule "uploadProjeto"]
+	path = uploadProjeto
+	url = https://github.com/karinanr/uploadProjeto.git
